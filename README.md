@@ -1,1 +1,1 @@
-# Pranav.R-Fake-news-detector-project
+Fake news detection
